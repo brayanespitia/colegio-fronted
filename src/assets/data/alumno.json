@@ -1,0 +1,17 @@
+[
+  {
+    "id":"asd",
+    "nombre":"White",
+    "apellidos":"Keyboard",
+    "genero":"masculino",
+    "fechaNacimiento":"11-11-11"
+  },
+  {
+    "id":"asdas",
+    "nombre":"Whitess",
+    "apellidos":"perez",
+    "genero":"masculino",
+    "fechaNacimiento":"11-11-11"
+  }
+
+]
